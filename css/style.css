@@ -1,0 +1,40 @@
+*,
+*::after,
+*::before{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ul.a {
+    list-style-type: circle;
+  }
+  ul {
+    list-style-type: circle;
+    margin: 0;
+    padding: 0;
+  }
+
+  li  {
+    display:inline;
+    width: 60px;
+    background-color:antiquewhite;
+  }
+  header{
+     text-align: center;
+     text-decoration: underline;
+     background-color:antiquewhite;
+  }
+  img {
+    width: 20%;
+    height: auto;
+    display: flex;
+    align-items: center;
+    row-gap: 5px;
+  }
+  
+  .featued-products{
+    display: flex;
+    align-items: center;
+  }
+  

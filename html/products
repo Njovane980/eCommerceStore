@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+    <title>Products</title>
+</head>
+<body>
+    <header>
+        <h1>Online Weave Store</h1>
+        <nav>
+            <ul>
+                <li><a href="./index.html">Home</a></li>
+                <li><a href="./html.product.html">Products</a></li>
+                <li><a href="./html.contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+<main>
+    <section class="featured-products">
+        <h2>Available weaves</h2>
+        <div class="product">
+            <img src="https://i.postimg.cc/3rLMrZr8/peruvian-20-inch.jpg" alt="Product 1">
+            <h3>Straight Peruvian 22 inch</h3>
+            <p>R2250</p>
+            <button>Add to Cart</button>
+        </div>
+        <div class="product">
+            <img src="https://i.postimg.cc/DZJC21xZ/bob-weave.jpg" alt="Product 2">
+            <h3>Sraight Brazilian 12 inch Bob</h3>
+            <p>R850</p>
+            <button>Add to Cart</button>
+        </div>
+        <div class="product">
+            <img src="https://i.postimg.cc/KvMy9MFm/30-inch.webp" alt="Product 3">
+            <h3>Straight Peruvian 30 inch</h3>
+            <p>R2600</p>
+            <button>Add to Cart</button>
+        </div>
+        <div class="product">
+            <img src="https://i.postimg.cc/4dg5TjH8/22-inch.jpg" alt="Product 4">
+            <h3>Sraight Brazilian 20 inch</h3>
+            <p>R1800</p>
+            <button>Add to Cart</button>
+        </div>
+        <div class="product">
+            <img src="https://i.postimg.cc/4dsS1YPN/1702146794252685313-Gs-Zv35tj-BU3d-Uh8-D.jpg" alt="Product 5">
+            <h3>Curly Peruvian 14 inch</h3>
+            <p>R1000</p>
+            <button>Add to Cart</button>
+        </div>
+        <div class="product">
+            <img src="https://i.postimg.cc/WbnVQJtr/images.jpg" alt="Product 6">
+            <h3>Curly Peruvian 20 inch</h3>
+            <p>R3000</p>
+            <button>Add to Cart</button>
+        </div>
+        <div class="product">
+            <img src="https://i.postimg.cc/hjdzr0DV/download.jpg" alt="Product 7">
+            <h3>Curly Brazilian 10 inch</h3>
+            <p>R1250</p>
+            <button>Add to Cart</button>
+        </div>
+        <div class="product">
+            <img src="https://i.postimg.cc/Kj5nP5fJ/lolasilk-brazilian-water-wave-fringe-12inch-wig-brazilian-hair-water-wave-fringe-wig-12inch-33169972.webp" alt="Product 8">
+            <h3>Curly Brazilian fringe 10 inch</h3>
+            <p>R850</p>
+            <button>Add to Cart</button>
+        </div>
+    </section>
+</main>
+</body>
+</html>
